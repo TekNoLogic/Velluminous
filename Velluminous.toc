@@ -1,0 +1,16 @@
+## Interface: 40200
+
+## Title: Velluminous
+## Notes: Quickly enchant directly to vellum
+## Author: Tekkub Stoutwrithe
+## Version: Alpha
+## X-Website: http://tekkub.net/
+## X-Category: Tradeskills
+## X-Icon: Interface\Icons\INV_Inscription_ArmorScroll01
+
+## LoadOnDemand: 1
+## LoadWith: Blizzard_TradeSkillUI
+
+## OptionalDeps: tekErr
+
+Velluminous.lua

@@ -1,0 +1,7 @@
+Velluminous is a simple addon to fix a simple problem.  I *never* enchant directly onto items since vellums were introduced, so enchanting from the tradeskill frame has been a two-click annoyance for me.  This addon simply adds a button that lets you enchant right to vellum in one click.  Instantly doubling your productivity!
+
+h2. Links
+
+<b>Visit "my site":http://www.tekkub.net/ for more great addons.<br>
+Please report all bugs and feature requests to my "Github tracker":http://github.com/tekkub/Velluminous/issues<br>
+Please direct all feedback and questions to my "Google Groups":http://groups-beta.google.com/group/tekkub-wow mailinglist.</b>
